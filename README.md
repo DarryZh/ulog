@@ -4,7 +4,7 @@ ulog 是一个用于嵌入式系统的日志记录和分析
 
 ## 功能特点
 
-- 支持FreeRTOS、linux
+- 支持裸机, FreeRTOS, linux
 - 支持多种日志级别，包括 vebose, debug, info, warn, error等
 - 支持多种日志输出，包括串口、存储等
 - 支持日志格式化，包括日志级别, 时间戳, 标签等
